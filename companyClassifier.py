@@ -1,7 +1,7 @@
 ##################################
 # Benchmark Mineral Intelligence #
 # ---------DCLARK 2023---------- #
-#         finnhub_tools.py       #
+#     companyClassifier.py       #
 ##################################
 
 # Various tools and modules to take company name data, unclean, unorganized, and possibly redundant,
