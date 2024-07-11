@@ -1,6 +1,6 @@
 # Benchmark scripts - "The Warchest"
 
-* I was having a post-contract debrief with my venerable, selfless, amazing guru of a senior developer at Allan solutions, the company contracted by Benchmark to develop the website, Pro platform, and aspects of the database. We were lamenting that our time working together would come to a close, and discussing next steps for me, as a soon-to-be unemployed data scientist. We reviewed a bit of code to use as work examples, and he affectionately described these two scripts as my "War Chest" of data weaponry designed and deployed at Benchmark.*
+I was having a post-contract debrief with my venerable, selfless, amazing guru of a senior developer at Allan solutions, the company contracted by Benchmark to develop the website, Pro platform, and aspects of the database. We were lamenting that our time working together would come to a close, and discussing next steps for me, as a soon-to-be unemployed data scientist. We reviewed a bit of code to use as work examples, and he affectionately described these two scripts as my "War Chest" of data weaponry designed and deployed at Benchmark.
 
 These scripts saved me, analysts, and the Allan Solutions developers a tremendous amount of time, resolved numerous headaches, and went on to formulate pieces of the ETL and database that are in use today.
 
